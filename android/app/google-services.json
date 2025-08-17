@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "354086627541",
+    "project_id": "perconalfinance",
+    "storage_bucket": "perconalfinance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354086627541:android:a67b38cbce531e7d6d9a5c",
+        "android_client_info": {
+          "package_name": "com.personalfinanceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDChM70c8kzr5T6Iawl-kPkfBDdcJZftps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354086627541:android:655c35a3905049ba6d9a5c",
+        "android_client_info": {
+          "package_name": "personalfinance.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDChM70c8kzr5T6Iawl-kPkfBDdcJZftps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
