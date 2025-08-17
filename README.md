@@ -25,6 +25,5 @@ Profil yönetimi, Dark/Light mode, uygulamadan güvenli çıkış.
     <td><img src="https://github.com/user-attachments/assets/9e32d1dd-4326-410c-bfa2-c094fb6d1c2f" width="200"></td>
   </tr>
   <tr>
-    <td colspan="4"><img src="https://github.com/user-attachments/assets/acb23330-874e-42e7-aefc-78d9862db408" width="400"></td>
   </tr>
 </table>
